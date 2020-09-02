@@ -1,2 +1,3 @@
 # AvatarGui
-An avatar gui for your catalog gui needs
+  Put the "Sys" folder inside "Server Script Service"
+  Put the "AGui" inside StarterGui
